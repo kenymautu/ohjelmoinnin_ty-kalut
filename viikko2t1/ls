@@ -1,0 +1,41 @@
+[33mcommit 8235b1d90f79f4f62ae7a94f12456bce8ae25669[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: kenyma <kenyma@utu.fi>
+Date:   Sat Feb 10 14:51:05 2024 +0200
+
+    tehtävä2.1
+
+[33mcommit 97bad52deae6c0229a849fa754bcf7706d7de253[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Vilho Kivihalme <kivihalme@gmail.com>
+Date:   Thu Feb 2 16:05:30 2023 +0200
+
+    convert to idea project
+
+[33mcommit cd9af46dded3a74db25e4300f67d2e04b28651a1[m
+Author: Vilho Kivihalme <kivihalme@gmail.com>
+Date:   Thu Feb 2 16:00:38 2023 +0200
+
+    readme
+
+[33mcommit 699be74a0b4694e8df11663c4a27339d79a6f8b4[m
+Author: Vilho Kivihalme <kivihalme@gmail.com>
+Date:   Thu Feb 2 15:57:45 2023 +0200
+
+    lisättiin gitignore
+
+[33mcommit 150658e29e9bbaa4ccfdee593b162e8d11845e09[m
+Author: Vilho Kivihalme <kivihalme@gmail.com>
+Date:   Thu Feb 2 15:57:06 2023 +0200
+
+    Varsinainen toteutus
+
+[33mcommit 4ef7ec153dd62efab58cb56306d708ae45692f5d[m
+Author: Vilho Kivihalme <kivihalme@gmail.com>
+Date:   Thu Feb 2 15:56:37 2023 +0200
+
+    Luokan luonti
+
+[33mcommit 4d5a8b3d104e5f0174980f5722877aa902757f2d[m
+Author: Vilho Kivihalme <kivihalme@gmail.com>
+Date:   Thu Feb 2 15:56:21 2023 +0200
+
+    initial
