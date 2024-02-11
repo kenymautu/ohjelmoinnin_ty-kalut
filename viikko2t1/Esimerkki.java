@@ -1,5 +1,5 @@
 public class Esimerkki{
 	public static void main(String[] args){
-		System.out.println("esimerkkituloste!");
+		System.out.println("tehty");
 	}
 }
